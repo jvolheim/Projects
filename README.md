@@ -1,10 +1,13 @@
 # Projects by Justin Volheim
-- Linear Algebra
+- Algorithms
   - Least squares
-  - Othogonal Matching pursuit
+  - Othogonal Matching Pursuit (OMP)
+  - Iterative Closest Point (ICP)
+    
 - Robotics
   - SLAM
   - Orientation Tracking
+    
 - Recommenders
   - Steam game recommendation
   - Recipe recommender 
