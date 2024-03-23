@@ -2,12 +2,9 @@
 
 - Machine Learning
   
-  - Least Squares Image Classification
-
-- Recommenders
   - Steam game recommender
   - Recipe recommender
-
+  - Least Squares Image Classification
 
 - Robotics
   - Visual-Inertial SLAM
