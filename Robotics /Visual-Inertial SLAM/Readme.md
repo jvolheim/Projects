@@ -17,12 +17,12 @@ This repository contains the implementation of a visual-inertial simultaneous lo
 
 ## Data 
 
-Data not included but shape description can be found in project pdf 
+    Data not included but shape description can be found in project pdf 
 
 # Install dependencies:
 
 
-> pip install -r requirements.txt
+     pip install -r requirements.txt
 
 
 
