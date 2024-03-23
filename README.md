@@ -10,7 +10,8 @@
 
 
 - Robotics
-  - SLAM
+  - Visual-Inertial SLAM
+  - LiDAR-Based SLAM
   - Orientation Tracking
  
 - Algorithms
