@@ -1,13 +1,18 @@
 # Projects by Justin Volheim
-- Algorithms
-  - Least squares
-  - Othogonal Matching Pursuit (OMP)
-  - Iterative Closest Point (ICP)
-    
+
+- Machine Learning
+  
+  - Least Squares Image Classification
+
+- Recommenders
+  - Steam game recommender
+  - Recipe recommender
+
+
 - Robotics
   - SLAM
   - Orientation Tracking
-    
-- Recommenders
-  - Steam game recommendation
-  - Recipe recommender 
+ 
+- Algorithms
+  - Othogonal Matching Pursuit (OMP)
+  - Iterative Closest Point (ICP)
