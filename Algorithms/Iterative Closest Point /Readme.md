@@ -6,27 +6,29 @@ This repository contains the implementation of the Iterative Closest Point (ICP)
 
 ## Features
 
-- **Point Cloud Association:** Associates points between source and target point clouds using a nearest neighbor search.
-- **Iterative Optimization:** Optimizes the transformation parameters iteratively to minimize the distance between corresponding points.
-- **Robustness:** Handles noisy data and partial overlaps between point clouds.
+    - Point Cloud Association:** Associates points between source and target point clouds using a nearest neighbor search.
+    
+    - Iterative Optimization:** Optimizes the transformation parameters iteratively to minimize the distance between corresponding points.
+   
+    - Robustness:** Handles noisy data and partial overlaps between point clouds.
   
 ## Dependencies
 
-- numpy
-- scipy
+    - numpy
+    - scipy
 
 ## Installation
 
-No specific installation is required beyond the dependencies. You can directly use the provided Python script.
+    No specific installation is required beyond the dependencies. You can directly use the provided Python script.
 
 ## Usage
 
 ### Running the Algorithm:
 
-1. Ensure you have the required dependencies installed.
-2. Provide source and target point clouds as numpy arrays.
-3. Call the `icp` function, passing the source and target point clouds.
-4. Optionally, specify initial transformation parameters `R_0` and `p_0`, maximum iterations, and other parameters.
+    1. Ensure you have the required dependencies installed.
+    2. Provide source and target point clouds as numpy arrays.
+    3. Call the `icp` function, passing the source and target point clouds.
+    4. Optionally, specify initial transformation parameters `R_0` and `p_0`, maximum iterations, and other parameters.
 
 ### Sample Code:
 
