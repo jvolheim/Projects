@@ -40,9 +40,3 @@ This folder holds projects related to the atonomus robotics platform shown here.
   - [Othogonal Matching Pursuit (OMP)](./Algorithms/Othogonal%20Matching%20Pursuit%20/)
   - [Iterative Closest Point (ICP)](./Algorithms/Iterative%20Closest%20Point%20/)
 
-<figure style="float: right; margin: 0px 0px 20px 20px;">
-<img src="./Robotics /LiDAR-Based SLAM/image.png" alt="Example Image" width="200" height="200">
-  <figcaption>Your caption here.</figcaption>
-</figure>
-
-Your text goes here. It will wrap around the image on the left.
