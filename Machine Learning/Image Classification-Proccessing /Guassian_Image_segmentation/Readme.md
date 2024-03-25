@@ -1,4 +1,4 @@
-# Image Segmentation and Classification with DCT and Gaussian Models
+# Image Segmentation via DCT and Gaussian Models
 
 This repository contains two notebooks that explore image segmentation and classification using Discrete Cosine Transform (DCT) and Gaussian models.
 
