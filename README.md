@@ -1,6 +1,6 @@
 # Projects by Justin Volheim
 
-- Machine Learning
+## Machine Learning
 
   - Recommender projects
     - Recipe Recommender
@@ -14,11 +14,11 @@
     - Generative Adversarial Networks (GANs)
     - Variational Autoencoders (VAEs)
 
-- Robotics
+## Robotics
   - Visual-Inertial SLAM
   - LiDAR-Based SLAM
   - Orientation Tracking
  
-- Algorithms
+## Algorithms
   - Othogonal Matching Pursuit (OMP)
   - Iterative Closest Point (ICP)
