@@ -11,7 +11,7 @@ localization and mapping projects as they are built on basic principles and ther
 easily generalized.
 
 Check Project PDF for thorough explanation and results. 
-## Platform utilized 
+## Platform utilized         
 
 ![](./image.png)
 
@@ -29,10 +29,10 @@ Check Project PDF for thorough explanation and results.
 
 ## Sample Output
 
-Lidar scans and imu path estimation
+Lidar scans and imu path estimation        
 ![](./image3.png)
 
-Occupancy grid mapping utilizing kinect camera
+Occupancy grid mapping utilizing kinect camera        
 ![](./image2.png)
 
    
