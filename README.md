@@ -16,11 +16,25 @@ This repository contains a collection of projects that I have worked on. The pro
     - [Variational Autoencoders (VAEs)](./Machine%20Learning/Image%20generation/)
 
 ## Robotics
+
+<div style="float: right; margin-left: 20px;">
 <img src="./Robotics /LiDAR-Based SLAM/image.png" alt="Example Image" width="200" height="200">
+</div>
+
+This folder holds projects related to the atonomus robotics platform shown here.
+
 
   - [Visual-Inertial SLAM](./Robotics%20/Visual-Inertial%20SLAM/)
-  - [LiDAR-Based SLAM](./Robotics%20/LiDAR-Based%20SLAM/)
-  - [Orientation Tracking](./Robotics%20/Orientation%20Tracking/)
+  
+    This project utilizes camera and IMU data to compute landmarks in a video feed and optimize     
+    the location and mapping of the robot over time.
+
+  - [LiDAR-Based SLAM](./Robotics%20/LiDAR-Based%20SLAM/)   
+    This project utilizes lidar data, IMU and camera data to compute occupancy grids, localization    
+    and mapping of teh traverse environment.
+  - [Orientation Tracking](./Robotics%20/Orientation%20Tracking/)   
+     This project utilizes IMU data to track the orientation of the robot over time and reconstruct   
+     visual data into a panoramic image of the environment.
  
 ## Algorithms
   - [Othogonal Matching Pursuit (OMP)](./Algorithms/Othogonal%20Matching%20Pursuit%20/)
