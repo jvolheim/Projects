@@ -16,6 +16,8 @@ This repository contains a collection of projects that I have worked on. The pro
     - [Variational Autoencoders (VAEs)](./Machine%20Learning/Image%20generation/)
 
 ## Robotics
+<img src="./Robotics /LiDAR-Based SLAM/image.png" alt="Example Image" width="200" height="200">
+
   - [Visual-Inertial SLAM](./Robotics%20/Visual-Inertial%20SLAM/)
   - [LiDAR-Based SLAM](./Robotics%20/LiDAR-Based%20SLAM/)
   - [Orientation Tracking](./Robotics%20/Orientation%20Tracking/)
