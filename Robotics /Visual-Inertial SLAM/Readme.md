@@ -10,6 +10,10 @@ This repository contains the implementation of a visual-inertial simultaneous lo
 
     Visual-Inertial SLAM: Combines IMU prediction with landmark mapping to achieve a complete visual-inertial SLAM algorithm.
 
+## Sample Output
+
+![](./part2b.png)
+
 ## Dependencies
 
     numpy
@@ -23,8 +27,6 @@ This repository contains the implementation of a visual-inertial simultaneous lo
 
 
      pip install -r requirements.txt
-
-
 
 
 ## Usage
@@ -45,12 +47,3 @@ This repository contains the implementation of a visual-inertial simultaneous lo
     README.md: Project documentation.
     ../data/: Directory containing datasets.
     
-
-## Sample Output
-
-
-![](./part2b.png)
-
-## Author
-
-Justin Volheim - [LinkedIn ](www.linkedin.com/in/justin-volheim)

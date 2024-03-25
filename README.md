@@ -1,10 +1,18 @@
 # Projects by Justin Volheim
 
 - Machine Learning
-  
-  - Steam game recommender
-  - Recipe recommender
-  - Least Squares Image Classification
+
+  - Recommender projects
+    - Recipe Recommender
+    - Steam Game Recommender
+
+  - Image Classification-Proccessing 
+    - Least Squares Image Classification
+    - Gaussian image segmentation
+
+  - Image generation 
+    - Generative Adversarial Networks (GANs)
+    - Variational Autoencoders (VAEs)
 
 - Robotics
   - Visual-Inertial SLAM

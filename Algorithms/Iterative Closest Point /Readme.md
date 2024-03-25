@@ -12,6 +12,10 @@ This repository contains the implementation of the Iterative Closest Point (ICP)
    
     - Robustness:** Handles noisy data and partial overlaps between point clouds.
   
+## Sample Output
+
+![](./output.png)
+
 ## Dependencies
 
     - numpy

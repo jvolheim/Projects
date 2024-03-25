@@ -5,7 +5,7 @@ This project implements the Orthogonal Matching Pursuit (OMP) algorithm for spar
 
 ## Project Structure
 
-    code.py: Python script containing the implementation of the OMP algorithm and experimental setups for signal recovery.
+    code.ipynb: Notebook containing the implementation of the OMP algorithm and experimental setups for signal recovery.
     load_data.py: Python script for loading data used in the project.
     Data/: Directory containing data files necessary for the experiments.
     README.md: This file, providing an overview of the project and its components.
@@ -32,15 +32,12 @@ The project is divided into several parts, each corresponding to a different asp
 
     Decoding Compressed Audio Signals: Applies OMP to recover messages from compressed audio signals. It investigates the minimum number of measurements required for accurate recovery and compares the results with least squares solutions.
 
-Results and Analysis
+## Results and Analysis
 
 The project provides insights into the effectiveness of the OMP algorithm for sparse signal recovery under various conditions. It includes visualizations such as phase transition plots and reconstructed images/audio signals to illustrate the performance and limitations of OMP.
-References
+
+## References
 
     Joel A. Tropp, "Greed is Good: Algorithmic Results for Sparse Approximation"
     Additional references cited within the project code.
-
-Author
-
-Justin Volheim - [linkedIn](https://www.linkedin.com/in/justin-volheim/)
 
