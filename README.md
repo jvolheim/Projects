@@ -15,7 +15,7 @@ This repository contains a collection of projects that I have worked on. The pro
     - [Generative Adversarial Networks (GANs)](./Machine%20Learning/Image%20generation/)
     - [Variational Autoencoders (VAEs)](./Machine%20Learning/Image%20generation/)
 
-## Robotics [!IMPORTANT] 
+## Robotics :star:
 This folder holds projects related to the atonomus robotics platform shown here.
 <div style="float: right; margin-left: 20px;">
 <img src="./Robotics /LiDAR-Based SLAM/image.png" alt="Example Image" width="200" height="200">
