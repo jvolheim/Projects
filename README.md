@@ -9,23 +9,23 @@ This repository contains a collection of projects that I have worked on. The pro
 
   - Image Classification-Proccessing 
     - [Least Squares Image Classification](./Machine%20Learning/Image%20Classification-Proccessing%20/Least%20Squares%20Image%20Clasification%20/)
-    - [Gaussian image segmentation](./Machine%20Learning/Image%20Classification-Proccessing%20/Guassian_Image_segmentation/)
+    - [Gaussian image segmentation](./Machine%20Learning/Image%20Classification-Proccessing%20/Guassian_Image_segmentation/) :star:
 
   - Image generation 
     - [Generative Adversarial Networks (GANs)](./Machine%20Learning/Image%20generation/)
     - [Variational Autoencoders (VAEs)](./Machine%20Learning/Image%20generation/)
 
-## Robotics :star:
+## Robotics 
 This folder holds projects related to the atonomus robotics platform shown here.
 <div style="float: right; margin-left: 20px;">
 <img src="./Robotics /LiDAR-Based SLAM/image.png" alt="Example Image" width="200" height="200">
 </div>
 
-  - [Visual-Inertial SLAM](./Robotics%20/Visual-Inertial%20SLAM/)
+  - [Visual-Inertial SLAM](./Robotics%20/Visual-Inertial%20SLAM/) :star:  
     This project utilizes camera and IMU data to compute landmarks in a video feed and optimize     
     the location and mapping of the robot over time.
 
-  - [LiDAR-Based SLAM](./Robotics%20/LiDAR-Based%20SLAM/)   
+  - [LiDAR-Based SLAM](./Robotics%20/LiDAR-Based%20SLAM/) :star:  
     This project utilizes lidar data, IMU and camera data to compute occupancy grids, localization    
     and mapping of teh traverse environment.
   - [Orientation Tracking](./Robotics%20/Orientation%20Tracking/)   
