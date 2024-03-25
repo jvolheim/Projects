@@ -22,7 +22,7 @@ This folder holds projects related to the atonomus robotics platform shown here.
 </div>
 
   - [Visual-Inertial SLAM](./Robotics%20/Visual-Inertial%20SLAM/) :star:  
-    This project utilizes camera and IMU data to compute landmarks in a video feed and optimize     
+    This project utilizes camera/IMU data to compute landmarks in a video feed and optimize     
     the location and mapping of the robot over time.
 
   - [LiDAR-Based SLAM](./Robotics%20/LiDAR-Based%20SLAM/) :star:  
