@@ -12,12 +12,18 @@ Notebook 2. Building upon the concepts introduced in Notebook 1 this notbook ext
 
 ### Discrete Cosine Transform (DCT): 
     
-    DCT is utilized to transform image data into a representation where important features are captured in the frequency domain. By analyzing DCT coefficients, images can be segmented and classified based on their characteristics.
+    DCT is utilized to transform image data into a representation where important features are captured
+    in the frequency domain. By analyzing DCT coefficients, images can be segmented and classified based 
+    on their characteristics.
 
 ### Probabilistic Methods: 
     
-    Probabilistic methods are employed to estimate prior probabilities and compute class conditional densities. These probabilities and densities serve as the basis for making classification decisions, allowing for the segmentation of images into distinct classes.
+    Probabilistic methods are employed to estimate prior probabilities and compute class conditional densities.
+    These probabilities and densities serve as the basis for making classification decisions, allowing for the 
+    segmentation of images into distinct classes.
 
 ### Multivariate Gaussian Models:
     
-    Notebook 2 introduces the use of multivariate Gaussian models for classification. By modeling the data distribution with Gaussian distributions, the classification process becomes more sophisticated and accounts for correlations between features.
+    Notebook 2 introduces the use of multivariate Gaussian models for classification. By modeling the data distribution 
+    with Gaussian distributions, the classification process becomes more sophisticated and accounts for correlations 
+    between features.
