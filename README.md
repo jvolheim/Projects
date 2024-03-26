@@ -1,5 +1,5 @@
 # Projects by Justin Volheim
-This repository contains a collection of my projects. The projects are organized by category and are listed below. Each project is linked to its respecitve folder in the repository with readme description.
+Each project show here is linked to its respecitve readme description.
 
 ## Machine Learning
 
