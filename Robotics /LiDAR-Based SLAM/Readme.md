@@ -13,7 +13,7 @@ easily generalized.
 Check Project PDF for thorough explanation and results. 
 ## Platform utilized         
 
-<img src="./image.png" alt="Example Image" width="300" height="300">
+<img src="./images/image.png" alt="Example Image" width="300" height="300">
 
 ## Features
 
@@ -31,17 +31,17 @@ Check Project PDF for thorough explanation and results.
 
 3D Environment mapping using kinect camera and lidar scans  
 
-<img src="./3denviorment.png" alt="Example Image" width="300" height="300">    
+<img src="./images/3denviorment.png" alt="Example Image" width="300" height="300">    
 
 
 Lidar scans and imu path estimation        
 
-<img src="./image3.png" alt="Example Image" width="300" height="300">       
+<img src="./images/image3.png" alt="Example Image" width="300" height="300">       
 
 
 Occupancy grid mapping utilizing kinect camera  
 
-<img src="./image2.png" alt="Example Image" width="300" height="300">   
+<img src="./images/image2.png" alt="Example Image" width="300" height="300">   
 
 
 ## Dependencies

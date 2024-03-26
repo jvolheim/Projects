@@ -17,7 +17,7 @@ This repository contains a collection of projects that I have worked on. The pro
 
 ## Robotics 
 This folder holds projects related to the atonomus robotics platform shown here.    
-<img src="./Robotics /LiDAR-Based SLAM/image.png" alt="Example Image" width="200" height="200">
+<img src="./Robotics /LiDAR-Based SLAM/images/image.png" alt="Example Image" width="200" height="200">
 
 
 - [Visual-Inertial SLAM](./Robotics%20/Visual-Inertial%20SLAM/) :star:  
