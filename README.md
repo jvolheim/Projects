@@ -25,7 +25,7 @@ This folder holds projects related to the atonomus robotics platform shown here.
   the location and mapping of the robot over time.
 
 - [LiDAR-Based SLAM](./Robotics%20/LiDAR-Based%20SLAM/) :star:  
-  This project utilizes lidar data, IMU and camera data to compute occupancy grids, localization and mapping of teh traverse environment.
+  This project utilizes lidar, IMU and camera data to compute occupancy grids, localization and mapping of the traversed environment.
   
 - [Orientation Tracking](./Robotics%20/Orientation%20Tracking/)   
     This project utilizes IMU data to track the orientation of the robot over time and reconstruct visual data into a panoramic image of the environment.
