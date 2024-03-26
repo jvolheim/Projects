@@ -13,7 +13,7 @@ easily generalized.
 Check Project PDF for thorough explanation and results. 
 ## Platform utilized         
 
-![](./image.png)
+<img src="./image.png" alt="Example Image" width="300" height="300">
 
 ## Features
 
@@ -35,6 +35,12 @@ Lidar scans and imu path estimation
 Occupancy grid mapping utilizing kinect camera        
 ![](./image2.png)
 
+<video width="320" height="240" controls>
+  <source src="./lidar_path_anima.mp4" type="video/mp4">
+
+</video>
+
+![](./3denviorment.png)
    
 ## Dependencies
 

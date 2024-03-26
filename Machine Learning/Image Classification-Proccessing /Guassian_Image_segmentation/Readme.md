@@ -1,12 +1,17 @@
 # Image Segmentation via DCT and Gaussian Models
 
-This repository contains two notebooks that explore image segmentation and classification using Discrete Cosine Transform (DCT) and Gaussian models.
+This repository contains two notebooks that explore image segmentation and classification using Discrete Cosine Transform (DCT) and Gaussian models. This is not meant to be a recommended image segmentation method, but rather an illistration of just one of the many ways that multivariate Gaussian models can be used. 
 
 ## Overview
 
 Notebook 1: This notebook focuses on utilizing DCT and probabilistic methods for image segmentation, effectively turning the segmentation task into a classification process. By computing DCT coefficients and applying decision rules based on probability estimates, images can be segmented into different classes, such as cheetah and grass.
 
 Notebook 2. Building upon the concepts introduced in Notebook 1 this notbook extends the analysis to utilize multivariate Gaussian models for classification. By computing class conditional densities under the Gaussian assumption, the classification process becomes more robust and accurate. This extension enables the selection of optimal features for classification and evaluates the performance of the classification algorithm.
+
+## Sample output 
+
+<img src="./original.png" alt="Example Image" width="200" height="200">
+<img src="./segmented.png" alt="Example Image" width="200" height="200">        
 
 ## Key Concepts
 
