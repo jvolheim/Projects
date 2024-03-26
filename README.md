@@ -19,12 +19,10 @@ This repository contains a collection of projects that I have worked on. The pro
 This folder holds projects related to the atonomus robotics platform shown here.    
 <img src="./Robotics /LiDAR-Based SLAM/image.png" alt="Example Image" width="200" height="200">
 
-<<<<<<< Updated upstream
-  - [Visual-Inertial SLAM](./Robotics%20/Visual-Inertial%20SLAM/) :star:  
-    This project utilizes camera/IMU data to compute landmarks in a video feed and optimize     
-    the location and mapping of the robot over time.
-=======
->>>>>>> Stashed changes
+
+- [Visual-Inertial SLAM](./Robotics%20/Visual-Inertial%20SLAM/) :star:  
+  This project utilizes camera/IMU data to compute landmarks in a video feed and optimize     
+  the location and mapping of the robot over time.
 
 - [Visual-Inertial SLAM](./Robotics%20/Visual-Inertial%20SLAM/) :star:  
   This project utilizes camera and IMU data to compute landmarks in a video feed and optimize the location and mapping of the robot over time.
