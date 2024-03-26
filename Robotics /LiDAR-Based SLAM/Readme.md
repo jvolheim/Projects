@@ -29,19 +29,21 @@ Check Project PDF for thorough explanation and results.
 
 ## Sample Output
 
+3D Environment mapping using kinect camera and lidar scans  
+
+<img src="./3denviorment.png" alt="Example Image" width="300" height="300">    
+
+
 Lidar scans and imu path estimation        
-![](./image3.png)
 
-Occupancy grid mapping utilizing kinect camera        
-![](./image2.png)
+<img src="./image3.png" alt="Example Image" width="300" height="300">       
 
-<video width="320" height="240" controls>
-  <source src="./lidar_path_anima.mp4" type="video/mp4">
 
-</video>
+Occupancy grid mapping utilizing kinect camera  
 
-![](./3denviorment.png)
-   
+<img src="./image2.png" alt="Example Image" width="300" height="300">   
+
+
 ## Dependencies
 
     numpy
