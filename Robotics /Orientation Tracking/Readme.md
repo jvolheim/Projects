@@ -1,8 +1,8 @@
 # Orientation Tracking
 ## Overview
 
-This repository contains focuses on Orientation tracking based on IMU measurements with optimization of 
-quaternions and gradient decent. It will go on to show how accurate these tracking 
+This repository focuses on Orientation tracking based on IMU measurements with optimization 
+of quaternions and gradient decent. It will go on to show how accurate these tracking 
 estimates are by creating a panoramic image using images taken from the IMU body 
 frame while rotating. The method discussed in this project can be adapted for 
 environment mapping and live orientation estimations of a moving ridged body.
