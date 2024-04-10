@@ -1,5 +1,5 @@
 # Projects by Justin Volheim
-Each project show here is linked to its respecitve readme description.
+Each project shown here is linked to its respecitve readme description.
 
 ## Machine Learning
 
